@@ -1,0 +1,118 @@
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Domain\bin\Debug\Domain.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Domain\bin\Debug\Domain.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Domain\bin\Debug\DataAccese.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Domain\bin\Debug\DataAccese.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Domain\obj\Debug\Domain.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Domain\obj\Debug\Domain.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Domain\bin\Debug\Common.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Domain\bin\Debug\Common.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Domain\bin\Debug\CircularProgressBar.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Domain\bin\Debug\WinFormAnimation.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Domain\bin\Debug\CircularProgressBar.xml
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Domain\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Domain\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Domain\bin\Debug\Domain.dll
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Domain\bin\Debug\Domain.pdb
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Domain\bin\Debug\CircularProgressBar.dll
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Domain\bin\Debug\Common.dll
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Domain\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Domain\bin\Debug\DataAccese.dll
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Domain\bin\Debug\WinFormAnimation.dll
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Domain\bin\Debug\Common.pdb
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Domain\bin\Debug\DataAccese.pdb
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Domain\bin\Debug\CircularProgressBar.xml
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Domain\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Domain\obj\Debug\Domain.dll
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Domain\obj\Debug\Domain.pdb
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Domain\bin\Debug\Domain.dll
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Domain\bin\Debug\Domain.pdb
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Domain\bin\Debug\CircularProgressBar.dll
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Domain\bin\Debug\Common.dll
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Domain\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Domain\bin\Debug\DataAccese.dll
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Domain\bin\Debug\WinFormAnimation.dll
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Domain\bin\Debug\Common.pdb
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Domain\bin\Debug\DataAccese.pdb
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Domain\bin\Debug\CircularProgressBar.xml
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Domain\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Domain\obj\Debug\Domain.dll
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Domain\obj\Debug\Domain.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Domain\bin\Debug\Domain.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Domain\bin\Debug\Domain.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Domain\bin\Debug\CircularProgressBar.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Domain\bin\Debug\Common.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Domain\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Domain\bin\Debug\DataAccese.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Domain\bin\Debug\WinFormAnimation.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Domain\bin\Debug\Common.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Domain\bin\Debug\DataAccese.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Domain\bin\Debug\CircularProgressBar.xml
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Domain\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Domain\obj\Debug\Domain.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Domain\obj\Debug\Domain.pdb
+C:\Users\Ethernet\Desktop\Kakei_P3\Domain\bin\Debug\Domain.dll
+C:\Users\Ethernet\Desktop\Kakei_P3\Domain\bin\Debug\Domain.pdb
+C:\Users\Ethernet\Desktop\Kakei_P3\Domain\bin\Debug\CircularProgressBar.dll
+C:\Users\Ethernet\Desktop\Kakei_P3\Domain\bin\Debug\Common.dll
+C:\Users\Ethernet\Desktop\Kakei_P3\Domain\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Ethernet\Desktop\Kakei_P3\Domain\bin\Debug\DataAccese.dll
+C:\Users\Ethernet\Desktop\Kakei_P3\Domain\bin\Debug\WinFormAnimation.dll
+C:\Users\Ethernet\Desktop\Kakei_P3\Domain\bin\Debug\Common.pdb
+C:\Users\Ethernet\Desktop\Kakei_P3\Domain\bin\Debug\DataAccese.pdb
+C:\Users\Ethernet\Desktop\Kakei_P3\Domain\bin\Debug\CircularProgressBar.xml
+C:\Users\Ethernet\Desktop\Kakei_P3\Domain\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Ethernet\Desktop\Kakei_P3\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Ethernet\Desktop\Kakei_P3\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ethernet\Desktop\Kakei_P3\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Ethernet\Desktop\Kakei_P3\Domain\obj\Debug\Domain.dll
+C:\Users\Ethernet\Desktop\Kakei_P3\Domain\obj\Debug\Domain.pdb
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Domain\bin\Debug\Domain.dll
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Domain\bin\Debug\Domain.pdb
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Domain\bin\Debug\CircularProgressBar.dll
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Domain\bin\Debug\Common.dll
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Domain\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Domain\bin\Debug\DataAccese.dll
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Domain\bin\Debug\WinFormAnimation.dll
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Domain\bin\Debug\Common.pdb
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Domain\bin\Debug\DataAccese.pdb
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Domain\bin\Debug\CircularProgressBar.xml
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Domain\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Domain\obj\Debug\Domain.dll
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Domain\obj\Debug\Domain.pdb
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Domain\bin\Debug\Domain.dll
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Domain\bin\Debug\Domain.pdb
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Domain\bin\Debug\CircularProgressBar.dll
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Domain\bin\Debug\Common.dll
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Domain\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Domain\bin\Debug\DataAccese.dll
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Domain\bin\Debug\WinFormAnimation.dll
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Domain\bin\Debug\Common.pdb
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Domain\bin\Debug\DataAccese.pdb
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Domain\bin\Debug\CircularProgressBar.xml
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Domain\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Domain\obj\Debug\Domain.csproj.CopyComplete
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Domain\obj\Debug\Domain.dll
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Domain\obj\Debug\Domain.pdb
+C:\Users\Brian\Desktop\10\Domain\bin\Debug\Domain.dll
+C:\Users\Brian\Desktop\10\Domain\bin\Debug\Domain.pdb
+C:\Users\Brian\Desktop\10\Domain\bin\Debug\CircularProgressBar.dll
+C:\Users\Brian\Desktop\10\Domain\bin\Debug\Common.dll
+C:\Users\Brian\Desktop\10\Domain\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Brian\Desktop\10\Domain\bin\Debug\DataAccese.dll
+C:\Users\Brian\Desktop\10\Domain\bin\Debug\WinFormAnimation.dll
+C:\Users\Brian\Desktop\10\Domain\bin\Debug\Common.pdb
+C:\Users\Brian\Desktop\10\Domain\bin\Debug\DataAccese.pdb
+C:\Users\Brian\Desktop\10\Domain\bin\Debug\CircularProgressBar.xml
+C:\Users\Brian\Desktop\10\Domain\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Brian\Desktop\10\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\10\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\10\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Brian\Desktop\10\Domain\obj\Debug\Domain.dll
+C:\Users\Brian\Desktop\10\Domain\obj\Debug\Domain.pdb

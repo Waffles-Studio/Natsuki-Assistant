@@ -1,0 +1,102 @@
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\DataAccese\bin\Debug\DataAccese.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\DataAccese\bin\Debug\DataAccese.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\DataAccese\obj\Debug\DataAccese.csprojResolveAssemblyReference.cache
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\DataAccese\obj\Debug\DataAccese.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\DataAccese\obj\Debug\DataAccese.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\DataAccese\bin\Debug\Common.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\DataAccese\bin\Debug\Common.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\DataAccese\bin\Debug\CircularProgressBar.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\DataAccese\bin\Debug\WinFormAnimation.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\DataAccese\bin\Debug\CircularProgressBar.xml
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\DataAccese\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\DataAccese\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\DataAccese\bin\Debug\DataAccese.dll
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\DataAccese\bin\Debug\DataAccese.pdb
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\DataAccese\bin\Debug\CircularProgressBar.dll
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\DataAccese\bin\Debug\Common.dll
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\DataAccese\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\DataAccese\bin\Debug\WinFormAnimation.dll
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\DataAccese\bin\Debug\Common.pdb
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\DataAccese\bin\Debug\CircularProgressBar.xml
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\DataAccese\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\DataAccese\obj\Debug\DataAccese.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\DataAccese\obj\Debug\DataAccese.dll
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\DataAccese\obj\Debug\DataAccese.pdb
+C:\Users\Ethernet\Desktop\Bancas_Topicos\DataAccese\bin\Debug\DataAccese.dll
+C:\Users\Ethernet\Desktop\Bancas_Topicos\DataAccese\bin\Debug\DataAccese.pdb
+C:\Users\Ethernet\Desktop\Bancas_Topicos\DataAccese\bin\Debug\CircularProgressBar.dll
+C:\Users\Ethernet\Desktop\Bancas_Topicos\DataAccese\bin\Debug\Common.dll
+C:\Users\Ethernet\Desktop\Bancas_Topicos\DataAccese\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Ethernet\Desktop\Bancas_Topicos\DataAccese\bin\Debug\WinFormAnimation.dll
+C:\Users\Ethernet\Desktop\Bancas_Topicos\DataAccese\bin\Debug\Common.pdb
+C:\Users\Ethernet\Desktop\Bancas_Topicos\DataAccese\bin\Debug\CircularProgressBar.xml
+C:\Users\Ethernet\Desktop\Bancas_Topicos\DataAccese\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Ethernet\Desktop\Bancas_Topicos\DataAccese\obj\Debug\DataAccese.csprojResolveAssemblyReference.cache
+C:\Users\Ethernet\Desktop\Bancas_Topicos\DataAccese\obj\Debug\DataAccese.dll
+C:\Users\Ethernet\Desktop\Bancas_Topicos\DataAccese\obj\Debug\DataAccese.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\DataAccese\bin\Debug\DataAccese.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\DataAccese\bin\Debug\DataAccese.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\DataAccese\bin\Debug\CircularProgressBar.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\DataAccese\bin\Debug\Common.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\DataAccese\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\DataAccese\bin\Debug\WinFormAnimation.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\DataAccese\bin\Debug\Common.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\DataAccese\bin\Debug\CircularProgressBar.xml
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\DataAccese\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\DataAccese\obj\Debug\DataAccese.csprojResolveAssemblyReference.cache
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\DataAccese\obj\Debug\DataAccese.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\DataAccese\obj\Debug\DataAccese.pdb
+C:\Users\Ethernet\Desktop\Kakei_P3\DataAccese\bin\Debug\DataAccese.dll
+C:\Users\Ethernet\Desktop\Kakei_P3\DataAccese\bin\Debug\DataAccese.pdb
+C:\Users\Ethernet\Desktop\Kakei_P3\DataAccese\bin\Debug\CircularProgressBar.dll
+C:\Users\Ethernet\Desktop\Kakei_P3\DataAccese\bin\Debug\Common.dll
+C:\Users\Ethernet\Desktop\Kakei_P3\DataAccese\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Ethernet\Desktop\Kakei_P3\DataAccese\bin\Debug\WinFormAnimation.dll
+C:\Users\Ethernet\Desktop\Kakei_P3\DataAccese\bin\Debug\Common.pdb
+C:\Users\Ethernet\Desktop\Kakei_P3\DataAccese\bin\Debug\CircularProgressBar.xml
+C:\Users\Ethernet\Desktop\Kakei_P3\DataAccese\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Ethernet\Desktop\Kakei_P3\DataAccese\obj\Debug\DataAccese.csprojAssemblyReference.cache
+C:\Users\Ethernet\Desktop\Kakei_P3\DataAccese\obj\Debug\DataAccese.csproj.CoreCompileInputs.cache
+C:\Users\Ethernet\Desktop\Kakei_P3\DataAccese\obj\Debug\DataAccese.csproj.CopyComplete
+C:\Users\Ethernet\Desktop\Kakei_P3\DataAccese\obj\Debug\DataAccese.dll
+C:\Users\Ethernet\Desktop\Kakei_P3\DataAccese\obj\Debug\DataAccese.pdb
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\DataAccese\bin\Debug\DataAccese.dll
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\DataAccese\bin\Debug\DataAccese.pdb
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\DataAccese\bin\Debug\CircularProgressBar.dll
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\DataAccese\bin\Debug\Common.dll
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\DataAccese\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\DataAccese\bin\Debug\WinFormAnimation.dll
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\DataAccese\bin\Debug\Common.pdb
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\DataAccese\bin\Debug\CircularProgressBar.xml
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\DataAccese\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\DataAccese\obj\Debug\DataAccese.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\DataAccese\obj\Debug\DataAccese.dll
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\DataAccese\obj\Debug\DataAccese.pdb
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\DataAccese\bin\Debug\DataAccese.dll
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\DataAccese\bin\Debug\DataAccese.pdb
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\DataAccese\bin\Debug\CircularProgressBar.dll
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\DataAccese\bin\Debug\Common.dll
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\DataAccese\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\DataAccese\bin\Debug\WinFormAnimation.dll
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\DataAccese\bin\Debug\Common.pdb
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\DataAccese\bin\Debug\CircularProgressBar.xml
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\DataAccese\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\DataAccese\obj\Debug\DataAccese.csprojAssemblyReference.cache
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\DataAccese\obj\Debug\DataAccese.csproj.CoreCompileInputs.cache
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\DataAccese\obj\Debug\DataAccese.csproj.CopyComplete
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\DataAccese\obj\Debug\DataAccese.dll
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\DataAccese\obj\Debug\DataAccese.pdb
+C:\Users\Brian\Desktop\10\DataAccese\bin\Debug\DataAccese.dll
+C:\Users\Brian\Desktop\10\DataAccese\bin\Debug\DataAccese.pdb
+C:\Users\Brian\Desktop\10\DataAccese\bin\Debug\CircularProgressBar.dll
+C:\Users\Brian\Desktop\10\DataAccese\bin\Debug\Common.dll
+C:\Users\Brian\Desktop\10\DataAccese\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Brian\Desktop\10\DataAccese\bin\Debug\WinFormAnimation.dll
+C:\Users\Brian\Desktop\10\DataAccese\bin\Debug\Common.pdb
+C:\Users\Brian\Desktop\10\DataAccese\bin\Debug\CircularProgressBar.xml
+C:\Users\Brian\Desktop\10\DataAccese\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Brian\Desktop\10\DataAccese\obj\Debug\DataAccese.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\10\DataAccese\obj\Debug\DataAccese.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\10\DataAccese\obj\Debug\DataAccese.csproj.CopyComplete
+C:\Users\Brian\Desktop\10\DataAccese\obj\Debug\DataAccese.dll
+C:\Users\Brian\Desktop\10\DataAccese\obj\Debug\DataAccese.pdb

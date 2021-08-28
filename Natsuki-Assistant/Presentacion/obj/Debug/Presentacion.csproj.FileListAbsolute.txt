@@ -1,0 +1,1049 @@
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\bin\Debug\Presentacion.exe.config
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\bin\Debug\Presentacion.exe
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\bin\Debug\Presentacion.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\bin\Debug\Domain.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\bin\Debug\DataAccese.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\bin\Debug\Domain.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\bin\Debug\DataAccese.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.exe
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Form1.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\bin\Debug\Common.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\bin\Debug\Common.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.FormRecoverPassword.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.FormWelcome.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\bin\Debug\CircularProgressBar.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\bin\Debug\WinFormAnimation.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\bin\Debug\CircularProgressBar.xml
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Ethernet\Desktop\LoginLayeredCSharp\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Ethernet\Desktop\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Ethernet\Desktop\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.FormAbout.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.FormUpdates.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.FormChaanges.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.FormUser.resources
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\bin\Debug\CircularProgressBar.dll
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\bin\Debug\Common.dll
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\bin\Debug\Domain.dll
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\bin\Debug\WinFormAnimation.dll
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\bin\Debug\DataAccese.dll
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\bin\Debug\Common.pdb
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\bin\Debug\Domain.pdb
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\bin\Debug\CircularProgressBar.xml
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\bin\Debug\DataAccese.pdb
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.FormAbout.resources
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.FormChaanges.resources
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.FormRecoverPassword.resources
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.FormUpdates.resources
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.FormUser.resources
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.FormWelcome.resources
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Add_Product.resources
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Add_Provedores.resources
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Add_Sales.resources
+C:\Users\Cesar\Desktop\Topicos\LoginLayeredCSharp\Presentacion\obj\Debug\Presentacion.Add_compras.resources
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.Add_compras.resources
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.Add_Product.resources
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.Add_Provedores.resources
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.Add_Sales.resources
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.FormAbout.resources
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.FormChaanges.resources
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.FormRecoverPassword.resources
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.FormUpdates.resources
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.FormUser.resources
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.FormWelcome.resources
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\CircularProgressBar.dll
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Common.dll
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Domain.dll
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\WinFormAnimation.dll
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\DataAccese.dll
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Common.pdb
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Domain.pdb
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\CircularProgressBar.xml
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\DataAccese.pdb
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Resources\Close.png
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Resources\kisspng-accounting-management-business-bookkeeping-informa-gesto-eletrnica-de-documentos-para-rea-da-sa-5cc9e0dca1f517.3181062915567341726634.jpg
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Resources\kisspng-financial-accounting-accounting-software-journal-e-accounting-5ac0bb0d239d64.1951462715225802371459.png
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Resources\logo_oficial_tec_lerdo_nov2017_transparente.png
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Resources\outline_account_circle_black_48dp.png
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp.png
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp1.png
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp.png
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp1.png
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Resources\outline_menu_black_48dp.png
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Resources\outline_menu_black_48dp1.png
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp.png
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp1.png
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Resources\round_account_circle_black_18dp.png
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Resources\round_arrow_back_black_18dp.png
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Resources\round_group_black_18dp.png
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Resources\round_thumb_up_black_18dp.png
+C:\Users\Ethernet\Desktop\Bancas_Topicos\Presentacion\bin\Debug\Resources\round_update_black_18dp.png
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Presentacion.exe.config
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.exe
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\Close.png
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\kisspng-accounting-management-business-bookkeeping-informa-gesto-eletrnica-de-documentos-para-rea-da-sa-5cc9e0dca1f517.3181062915567341726634.jpg
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\kisspng-financial-accounting-accounting-software-journal-e-accounting-5ac0bb0d239d64.1951462715225802371459.png
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\logo_oficial_tec_lerdo_nov2017_transparente.png
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\outline_account_circle_black_48dp.png
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp.png
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp1.png
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp.png
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp1.png
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\outline_menu_black_48dp.png
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\outline_menu_black_48dp1.png
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp.png
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp1.png
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\round_account_circle_black_18dp.png
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\round_arrow_back_black_18dp.png
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\round_group_black_18dp.png
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\round_thumb_up_black_18dp.png
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\round_update_black_18dp.png
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Presentacion.exe
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Presentacion.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\CircularProgressBar.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Common.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\DataAccese.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Domain.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\WinFormAnimation.dll
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Common.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\DataAccese.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Domain.pdb
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\CircularProgressBar.xml
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.Add_compras.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.Add_Product.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.Add_Provedores.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.Add_Sales.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.Form1.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.FormAbout.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.FormChaanges.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.FormRecoverPassword.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.FormUpdates.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.FormUser.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.FormWelcome.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\Brian.PNG
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\Cesar.PNG
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\Daniel.PNG
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\Lupita.PNG
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\User.PNG
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\Darien.PNG
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Resources\money_analytics_analysis_icon_143876.ico
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\bin\Debug\Servidor\ETH.txt
+E:\ITSL\Topicos Avanzados\PROYECTO!!!!!!!!\0.2\Bancas_Topicos\Presentacion\obj\Debug\Presentacion.FormConta.resources
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\Brian.PNG
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\Cesar.PNG
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\Close.png
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\Daniel.PNG
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\Darien.PNG
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\kisspng-financial-accounting-accounting-software-journal-e-accounting-5ac0bb0d239d64.1951462715225802371459.png
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\logo_oficial_tec_lerdo_nov2017_transparente.png
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\Lupita.PNG
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\money_analytics_analysis_icon_143876.ico
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\outline_account_circle_black_48dp.png
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp.png
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp1.png
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp.png
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp1.png
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\outline_menu_black_48dp.png
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\outline_menu_black_48dp1.png
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp.png
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp1.png
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\round_account_circle_black_18dp.png
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\round_arrow_back_black_18dp.png
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\round_group_black_18dp.png
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\round_thumb_up_black_18dp.png
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\round_update_black_18dp.png
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\User.PNG
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Servidor\ETH.txt
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\CircularProgressBar.dll
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Common.dll
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\DataAccese.dll
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Domain.dll
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\WinFormAnimation.dll
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Common.pdb
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\DataAccese.pdb
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Domain.pdb
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\CircularProgressBar.xml
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Presentacion.Add_compras.resources
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Presentacion.Add_Product.resources
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Presentacion.Add_Provedores.resources
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Presentacion.Add_Sales.resources
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Presentacion.FormAbout.resources
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Presentacion.FormChaanges.resources
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Presentacion.FormConta.resources
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Presentacion.FormRecoverPassword.resources
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Presentacion.FormUpdates.resources
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Presentacion.FormUser.resources
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Presentacion.FormWelcome.resources
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Kaikei Project.exe.config
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Kaikei Project.exe.manifest
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Kaikei Project.application
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Kaikei Project.exe
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Kaikei Project.pdb
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Kaikei Project.TrustInfo.xml
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Kaikei Project.exe.manifest
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Kaikei Project.application
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Kaikei Project.exe
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Kaikei Project.pdb
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Resources\kisspng_accounting.jpg
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Kaikei Project.exe.config
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\obj\Debug\Kaikei Project.exe
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\obj\Debug\Kaikei Project.pdb
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\Brian.PNG
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\Cesar.PNG
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\Close.png
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\Daniel.PNG
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\Darien.PNG
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\kisspng_accounting.jpg
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\kisspng-financial-accounting-accounting-software-journal-e-accounting-5ac0bb0d239d64.1951462715225802371459.png
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\logo_oficial_tec_lerdo_nov2017_transparente.png
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\Lupita.PNG
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\money_analytics_analysis_icon_143876.ico
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\outline_account_circle_black_48dp.png
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp.png
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp1.png
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp.png
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp1.png
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\outline_menu_black_48dp.png
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\outline_menu_black_48dp1.png
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp.png
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp1.png
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\round_account_circle_black_18dp.png
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\round_arrow_back_black_18dp.png
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\round_group_black_18dp.png
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\round_thumb_up_black_18dp.png
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\round_update_black_18dp.png
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Resources\User.PNG
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Servidor\ETH.txt
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Kaikei Project.exe.manifest
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Kaikei Project.application
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Kaikei Project.exe
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Kaikei Project.pdb
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\CircularProgressBar.dll
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Common.dll
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\DataAccese.dll
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Domain.dll
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\WinFormAnimation.dll
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Common.pdb
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\DataAccese.pdb
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Domain.pdb
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\CircularProgressBar.xml
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\obj\Debug\Presentacion.Add_compras.resources
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\obj\Debug\Presentacion.Add_Product.resources
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\obj\Debug\Presentacion.Add_Provedores.resources
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\obj\Debug\Presentacion.Add_Sales.resources
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\obj\Debug\Presentacion.FormAbout.resources
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\obj\Debug\Presentacion.FormChaanges.resources
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\obj\Debug\Presentacion.FormConta.resources
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\obj\Debug\Presentacion.FormRecoverPassword.resources
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\obj\Debug\Presentacion.FormUpdates.resources
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\obj\Debug\Presentacion.FormUser.resources
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\obj\Debug\Presentacion.FormWelcome.resources
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\obj\Debug\Kaikei Project.TrustInfo.xml
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\obj\Debug\Kaikei Project.exe.manifest
+C:\Users\Usuario\Desktop\Kakei_P3\Kakei_P3\Presentacion\obj\Debug\Kaikei Project.application
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Kaikei_Project.Properties.Resources.resources
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Ethernet\Desktop\Kakei_P3\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\Brian.PNG
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\Cesar.PNG
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\Close.png
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\Daniel.PNG
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\Darien.PNG
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\kisspng_accounting.jpg
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\kisspng-financial-accounting-accounting-software-journal-e-accounting-5ac0bb0d239d64.1951462715225802371459.png
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\logo_oficial_tec_lerdo_nov2017_transparente.png
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\Lupita.PNG
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\money_analytics_analysis_icon_143876.ico
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\outline_account_circle_black_48dp.png
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp.png
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp1.png
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp.png
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp1.png
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\outline_menu_black_48dp.png
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\outline_menu_black_48dp1.png
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp.png
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp1.png
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\round_account_circle_black_18dp.png
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\round_arrow_back_black_18dp.png
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\round_group_black_18dp.png
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\round_thumb_up_black_18dp.png
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\round_update_black_18dp.png
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Resources\User.PNG
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Servidor\ETH.txt
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Kaikei Project.exe.config
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Kaikei Project.exe.manifest
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Kaikei Project.application
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Kaikei Project.exe
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Kaikei Project.pdb
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\CircularProgressBar.dll
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Common.dll
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\DataAccese.dll
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Domain.dll
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\WinFormAnimation.dll
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Common.pdb
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\DataAccese.pdb
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Domain.pdb
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\CircularProgressBar.xml
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Presentacion.Add_compras.resources
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Presentacion.Add_Product.resources
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Presentacion.Add_Provedores.resources
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Presentacion.Add_Sales.resources
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Presentacion.Form1.resources
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Presentacion.FormAbout.resources
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Presentacion.FormChaanges.resources
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Presentacion.FormConta.resources
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Presentacion.FormRecoverPassword.resources
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Presentacion.FormUpdates.resources
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Presentacion.FormUser.resources
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Presentacion.FormWelcome.resources
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Kaikei_Project.Properties.Resources.resources
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Kaikei Project.TrustInfo.xml
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Kaikei Project.exe.manifest
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Kaikei Project.application
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Kaikei Project.exe
+E:\ITSL\5to SEMESTRE\PROYECTO\Antiguo\Presentacion\obj\Debug\Kaikei Project.pdb
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\Brian.PNG
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\Cesar.PNG
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\Close.png
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\Daniel.PNG
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\Darien.PNG
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\kisspng_accounting.jpg
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\kisspng-financial-accounting-accounting-software-journal-e-accounting-5ac0bb0d239d64.1951462715225802371459.png
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\logo_oficial_tec_lerdo_nov2017_transparente.png
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\Lupita.PNG
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\money_analytics_analysis_icon_143876.ico
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\outline_account_circle_black_48dp.png
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp.png
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp1.png
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp.png
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp1.png
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\outline_menu_black_48dp.png
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\outline_menu_black_48dp1.png
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp.png
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp1.png
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\round_account_circle_black_18dp.png
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\round_arrow_back_black_18dp.png
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\round_group_black_18dp.png
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\round_thumb_up_black_18dp.png
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\round_update_black_18dp.png
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Resources\User.PNG
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Servidor\ETH.txt
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Kaikei Project.exe.config
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Kaikei Project.exe.manifest
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Kaikei Project.application
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Kaikei Project.exe
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Kaikei Project.pdb
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\CircularProgressBar.dll
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Common.dll
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\DataAccese.dll
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Domain.dll
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\WinFormAnimation.dll
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Common.pdb
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\DataAccese.pdb
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Domain.pdb
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\CircularProgressBar.xml
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Brian\Desktop\2\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Presentacion.Add_compras.resources
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Presentacion.Add_Product.resources
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Presentacion.Add_Provedores.resources
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Presentacion.Add_Sales.resources
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Presentacion.FormAbout.resources
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Presentacion.FormChaanges.resources
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Presentacion.FormConta.resources
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Presentacion.FormRecoverPassword.resources
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Presentacion.FormUpdates.resources
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Presentacion.FormUser.resources
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Presentacion.FormWelcome.resources
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Kaikei_Project.Properties.Resources.resources
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Kaikei Project.TrustInfo.xml
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Kaikei Project.exe.manifest
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Kaikei Project.application
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Kaikei Project.exe
+C:\Users\Brian\Desktop\2\Presentacion\obj\Debug\Kaikei Project.pdb
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\Brian.PNG
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\Cesar.PNG
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\Close.png
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\Daniel.PNG
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\Darien.PNG
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\kisspng_accounting.jpg
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\kisspng-financial-accounting-accounting-software-journal-e-accounting-5ac0bb0d239d64.1951462715225802371459.png
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\logo_oficial_tec_lerdo_nov2017_transparente.png
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\Lupita.PNG
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\money_analytics_analysis_icon_143876.ico
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\outline_account_circle_black_48dp.png
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp.png
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp1.png
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp.png
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp1.png
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\outline_menu_black_48dp.png
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\outline_menu_black_48dp1.png
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp.png
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp1.png
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\round_account_circle_black_18dp.png
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\round_arrow_back_black_18dp.png
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\round_group_black_18dp.png
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\round_thumb_up_black_18dp.png
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\round_update_black_18dp.png
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Resources\User.PNG
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Servidor\ETH.txt
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Kaikei Project.exe.config
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Kaikei Project.exe.manifest
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Kaikei Project.application
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Kaikei Project.exe
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Kaikei Project.pdb
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\CircularProgressBar.dll
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Common.dll
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\DataAccese.dll
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Domain.dll
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\WinFormAnimation.dll
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Common.pdb
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\DataAccese.pdb
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Domain.pdb
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\CircularProgressBar.xml
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Brian\Desktop\3\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Presentacion.Add_compras.resources
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Presentacion.Add_Product.resources
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Presentacion.Add_Provedores.resources
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Presentacion.Add_Sales.resources
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Presentacion.FormAbout.resources
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Presentacion.FormChaanges.resources
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Presentacion.FormConta.resources
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Presentacion.FormRecoverPassword.resources
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Presentacion.FormUpdates.resources
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Presentacion.FormUser.resources
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Presentacion.FormWelcome.resources
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Kaikei_Project.Properties.Resources.resources
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Kaikei Project.TrustInfo.xml
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Kaikei Project.exe.manifest
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Kaikei Project.application
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Kaikei Project.exe
+C:\Users\Brian\Desktop\3\Presentacion\obj\Debug\Kaikei Project.pdb
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\Brian.PNG
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\Cesar.PNG
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\Close.png
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\Daniel.PNG
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\Darien.PNG
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\kisspng_accounting.jpg
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\kisspng-financial-accounting-accounting-software-journal-e-accounting-5ac0bb0d239d64.1951462715225802371459.png
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\logo_oficial_tec_lerdo_nov2017_transparente.png
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\Lupita.PNG
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\money_analytics_analysis_icon_143876.ico
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\outline_account_circle_black_48dp.png
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp.png
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp1.png
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp.png
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp1.png
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\outline_menu_black_48dp.png
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\outline_menu_black_48dp1.png
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp.png
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp1.png
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\round_account_circle_black_18dp.png
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\round_arrow_back_black_18dp.png
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\round_group_black_18dp.png
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\round_thumb_up_black_18dp.png
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\round_update_black_18dp.png
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Resources\User.PNG
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Servidor\ETH.txt
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Kaikei Project.exe.config
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Kaikei Project.exe.manifest
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Kaikei Project.application
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Kaikei Project.exe
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Kaikei Project.pdb
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\CircularProgressBar.dll
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Common.dll
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\DataAccese.dll
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Domain.dll
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\WinFormAnimation.dll
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Common.pdb
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\DataAccese.pdb
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Domain.pdb
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\CircularProgressBar.xml
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Brian\Desktop\4\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Presentacion.Add_compras.resources
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Presentacion.Add_Product.resources
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Presentacion.Add_Provedores.resources
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Presentacion.Add_Sales.resources
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Presentacion.FormAbout.resources
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Presentacion.FormChaanges.resources
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Presentacion.FormConta.resources
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Presentacion.FormRecoverPassword.resources
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Presentacion.FormUpdates.resources
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Presentacion.FormUser.resources
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Presentacion.FormWelcome.resources
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Kaikei_Project.Properties.Resources.resources
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Kaikei Project.TrustInfo.xml
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Kaikei Project.exe.manifest
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Kaikei Project.application
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Kaikei Project.exe
+C:\Users\Brian\Desktop\4\Presentacion\obj\Debug\Kaikei Project.pdb
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\Brian.PNG
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\Cesar.PNG
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\Close.png
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\Daniel.PNG
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\Darien.PNG
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\kisspng_accounting.jpg
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\kisspng-financial-accounting-accounting-software-journal-e-accounting-5ac0bb0d239d64.1951462715225802371459.png
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\logo_oficial_tec_lerdo_nov2017_transparente.png
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\Lupita.PNG
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\money_analytics_analysis_icon_143876.ico
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\outline_account_circle_black_48dp.png
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp.png
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp1.png
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp.png
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp1.png
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\outline_menu_black_48dp.png
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\outline_menu_black_48dp1.png
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp.png
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp1.png
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\round_account_circle_black_18dp.png
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\round_arrow_back_black_18dp.png
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\round_group_black_18dp.png
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\round_thumb_up_black_18dp.png
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\round_update_black_18dp.png
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Resources\User.PNG
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Servidor\ETH.txt
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Kaikei Project.exe.config
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Kaikei Project.exe.manifest
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Kaikei Project.application
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Kaikei Project.exe
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Kaikei Project.pdb
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\CircularProgressBar.dll
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Common.dll
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\DataAccese.dll
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Domain.dll
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\WinFormAnimation.dll
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Common.pdb
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\DataAccese.pdb
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Domain.pdb
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\CircularProgressBar.xml
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Brian\Desktop\5\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Presentacion.Add_compras.resources
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Presentacion.Add_Product.resources
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Presentacion.Add_Provedores.resources
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Presentacion.Add_Sales.resources
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Presentacion.FormAbout.resources
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Presentacion.FormChaanges.resources
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Presentacion.FormConta.resources
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Presentacion.FormRecoverPassword.resources
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Presentacion.FormUpdates.resources
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Presentacion.FormUser.resources
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Presentacion.FormWelcome.resources
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Kaikei_Project.Properties.Resources.resources
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Kaikei Project.TrustInfo.xml
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Kaikei Project.exe.manifest
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Kaikei Project.application
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Kaikei Project.exe
+C:\Users\Brian\Desktop\5\Presentacion\obj\Debug\Kaikei Project.pdb
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\Brian.PNG
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\Cesar.PNG
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\Close.png
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\Daniel.PNG
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\Darien.PNG
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\kisspng_accounting.jpg
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\kisspng-financial-accounting-accounting-software-journal-e-accounting-5ac0bb0d239d64.1951462715225802371459.png
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\logo_oficial_tec_lerdo_nov2017_transparente.png
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\Lupita.PNG
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\money_analytics_analysis_icon_143876.ico
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\outline_account_circle_black_48dp.png
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp.png
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp1.png
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp.png
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp1.png
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\outline_menu_black_48dp.png
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\outline_menu_black_48dp1.png
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp.png
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp1.png
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\round_account_circle_black_18dp.png
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\round_arrow_back_black_18dp.png
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\round_group_black_18dp.png
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\round_thumb_up_black_18dp.png
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\round_update_black_18dp.png
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Resources\User.PNG
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Servidor\ETH.txt
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Kaikei Project.exe.config
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Kaikei Project.exe.manifest
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Kaikei Project.application
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Kaikei Project.exe
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Kaikei Project.pdb
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\CircularProgressBar.dll
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Common.dll
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\DataAccese.dll
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Domain.dll
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\WinFormAnimation.dll
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Common.pdb
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\DataAccese.pdb
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Domain.pdb
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\CircularProgressBar.xml
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Brian\Desktop\6\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Presentacion.Add_compras.resources
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Presentacion.Add_Product.resources
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Presentacion.Add_Provedores.resources
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Presentacion.Add_Sales.resources
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Presentacion.FormAbout.resources
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Presentacion.FormChaanges.resources
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Presentacion.FormConta.resources
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Presentacion.FormRecoverPassword.resources
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Presentacion.FormUpdates.resources
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Presentacion.FormUser.resources
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Presentacion.FormWelcome.resources
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Kaikei_Project.Properties.Resources.resources
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Kaikei Project.TrustInfo.xml
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Kaikei Project.exe.manifest
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Kaikei Project.application
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Kaikei Project.exe
+C:\Users\Brian\Desktop\6\Presentacion\obj\Debug\Kaikei Project.pdb
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\Brian.PNG
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\Cesar.PNG
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\Close.png
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\Daniel.PNG
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\Darien.PNG
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\kisspng_accounting.jpg
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\kisspng-financial-accounting-accounting-software-journal-e-accounting-5ac0bb0d239d64.1951462715225802371459.png
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\logo_oficial_tec_lerdo_nov2017_transparente.png
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\Lupita.PNG
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\money_analytics_analysis_icon_143876.ico
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\outline_account_circle_black_48dp.png
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp.png
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp1.png
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp.png
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp1.png
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\outline_menu_black_48dp.png
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\outline_menu_black_48dp1.png
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp.png
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp1.png
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\round_account_circle_black_18dp.png
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\round_arrow_back_black_18dp.png
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\round_group_black_18dp.png
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\round_thumb_up_black_18dp.png
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\round_update_black_18dp.png
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Resources\User.PNG
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Servidor\ETH.txt
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Kaikei Project.exe.config
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Kaikei Project.exe.manifest
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Kaikei Project.application
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Kaikei Project.exe
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Kaikei Project.pdb
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\CircularProgressBar.dll
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Common.dll
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\DataAccese.dll
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Domain.dll
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\WinFormAnimation.dll
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Common.pdb
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\DataAccese.pdb
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Domain.pdb
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\CircularProgressBar.xml
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Brian\Desktop\8\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Presentacion.Add_compras.resources
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Presentacion.Add_Product.resources
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Presentacion.Add_Provedores.resources
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Presentacion.Add_Sales.resources
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Presentacion.FormAbout.resources
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Presentacion.FormChaanges.resources
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Presentacion.FormConta.resources
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Presentacion.FormRecoverPassword.resources
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Presentacion.FormUpdates.resources
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Presentacion.FormUser.resources
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Presentacion.FormWelcome.resources
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Kaikei_Project.Properties.Resources.resources
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Kaikei Project.TrustInfo.xml
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Kaikei Project.exe.manifest
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Kaikei Project.application
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Kaikei Project.exe
+C:\Users\Brian\Desktop\8\Presentacion\obj\Debug\Kaikei Project.pdb
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\Brian.PNG
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\Cesar.PNG
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\Close.png
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\Daniel.PNG
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\Darien.PNG
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\kisspng_accounting.jpg
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\kisspng-financial-accounting-accounting-software-journal-e-accounting-5ac0bb0d239d64.1951462715225802371459.png
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\logo_oficial_tec_lerdo_nov2017_transparente.png
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\Lupita.PNG
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\money_analytics_analysis_icon_143876.ico
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\outline_account_circle_black_48dp.png
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp.png
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp1.png
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp.png
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp1.png
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\outline_menu_black_48dp.png
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\outline_menu_black_48dp1.png
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp.png
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp1.png
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\round_account_circle_black_18dp.png
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\round_arrow_back_black_18dp.png
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\round_group_black_18dp.png
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\round_thumb_up_black_18dp.png
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\round_update_black_18dp.png
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Resources\User.PNG
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Servidor\ETH.txt
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Kaikei Project.exe.config
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Kaikei Project.exe.manifest
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Kaikei Project.application
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Kaikei Project.exe
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Kaikei Project.pdb
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\CircularProgressBar.dll
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Common.dll
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\DataAccese.dll
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Domain.dll
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\WinFormAnimation.dll
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Common.pdb
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\DataAccese.pdb
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Domain.pdb
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\CircularProgressBar.xml
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Brian\Desktop\9\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Presentacion.Add_compras.resources
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Presentacion.Add_Product.resources
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Presentacion.Add_Provedores.resources
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Presentacion.Add_Sales.resources
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Presentacion.FormAbout.resources
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Presentacion.FormChaanges.resources
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Presentacion.FormConta.resources
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Presentacion.FormRecoverPassword.resources
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Presentacion.FormUpdates.resources
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Presentacion.FormUser.resources
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Presentacion.FormWelcome.resources
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Kaikei_Project.Properties.Resources.resources
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Kaikei Project.TrustInfo.xml
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Kaikei Project.exe.manifest
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Kaikei Project.application
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Kaikei Project.exe
+C:\Users\Brian\Desktop\9\Presentacion\obj\Debug\Kaikei Project.pdb
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\Brian.PNG
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\Cesar.PNG
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\Chris_perfil.bmp
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\Close.png
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\Daniel.PNG
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\Darien.PNG
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\Darien_perfil.bmp
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\kisspng_accounting.jpg
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\kisspng-financial-accounting-accounting-software-journal-e-accounting-5ac0bb0d239d64.1951462715225802371459.png
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\logo_oficial_tec_lerdo_nov2017_transparente.png
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\Lupita.PNG
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\money_analytics_analysis_icon_143876.ico
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\outline_account_circle_black_48dp.png
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp.png
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp1.png
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp.png
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp1.png
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\outline_menu_black_48dp.png
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\outline_menu_black_48dp1.png
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp.png
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp1.png
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\round_account_circle_black_18dp.png
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\round_arrow_back_black_18dp.png
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\round_group_black_18dp.png
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\round_thumb_up_black_18dp.png
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\round_update_black_18dp.png
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Resources\User.PNG
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Servidor\ETH.txt
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Kaikei Project.exe.config
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Kaikei Project.exe.manifest
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Kaikei Project.application
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Kaikei Project.exe
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Kaikei Project.pdb
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\CircularProgressBar.dll
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Common.dll
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\DataAccese.dll
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Domain.dll
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\WinFormAnimation.dll
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Common.pdb
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\DataAccese.pdb
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Domain.pdb
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\CircularProgressBar.xml
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Brian\Desktop\10\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Presentacion.Add_compras.resources
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Presentacion.Add_Product.resources
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Presentacion.Add_Provedores.resources
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Presentacion.Add_Sales.resources
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Presentacion.FormAbout.resources
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Presentacion.FormChaanges.resources
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Presentacion.FormConta.resources
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Presentacion.FormRecoverPassword.resources
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Presentacion.FormUpdates.resources
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Presentacion.FormUser.resources
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Presentacion.FormWelcome.resources
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Kaikei_Project.Properties.Resources.resources
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Kaikei Project.TrustInfo.xml
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Kaikei Project.exe.manifest
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Kaikei Project.application
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Kaikei Project.exe
+C:\Users\Brian\Desktop\10\Presentacion\obj\Debug\Kaikei Project.pdb
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\Brian.PNG
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\Cesar.PNG
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\Chris_perfil.bmp
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\Close.png
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\Daniel.PNG
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\Darien.PNG
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\Darien_perfil.bmp
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\kisspng_accounting.jpg
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\kisspng-financial-accounting-accounting-software-journal-e-accounting-5ac0bb0d239d64.1951462715225802371459.png
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\logo_oficial_tec_lerdo_nov2017_transparente.png
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\Lupita.PNG
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\money_analytics_analysis_icon_143876.ico
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\outline_account_circle_black_48dp.png
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp.png
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp1.png
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp.png
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp1.png
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\outline_menu_black_48dp.png
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\outline_menu_black_48dp1.png
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp.png
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp1.png
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\round_account_circle_black_18dp.png
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\round_arrow_back_black_18dp.png
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\round_group_black_18dp.png
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\round_thumb_up_black_18dp.png
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\round_update_black_18dp.png
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Resources\User.PNG
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Servidor\ETH.txt
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Kaikei Project.exe.config
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Kaikei Project.exe.manifest
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Kaikei Project.application
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Kaikei Project.exe
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Kaikei Project.pdb
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\CircularProgressBar.dll
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Common.dll
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\DataAccese.dll
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Domain.dll
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\WinFormAnimation.dll
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Common.pdb
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\DataAccese.pdb
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Domain.pdb
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\CircularProgressBar.xml
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Brian\Desktop\11\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Presentacion.Add_compras.resources
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Presentacion.Add_Product.resources
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Presentacion.Add_Provedores.resources
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Presentacion.Add_Sales.resources
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Presentacion.FormAbout.resources
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Presentacion.FormChaanges.resources
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Presentacion.FormConta.resources
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Presentacion.FormRecoverPassword.resources
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Presentacion.FormUpdates.resources
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Presentacion.FormUser.resources
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Presentacion.FormWelcome.resources
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Kaikei_Project.Properties.Resources.resources
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Kaikei Project.TrustInfo.xml
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Kaikei Project.exe.manifest
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Kaikei Project.application
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Kaikei Project.exe
+C:\Users\Brian\Desktop\11\Presentacion\obj\Debug\Kaikei Project.pdb
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\Brian.PNG
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\Cesar.PNG
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\Chris_perfil.bmp
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\Close.png
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\Daniel.PNG
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\Darien.PNG
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\Darien_perfil.bmp
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\kisspng_accounting.jpg
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\kisspng-financial-accounting-accounting-software-journal-e-accounting-5ac0bb0d239d64.1951462715225802371459.png
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\logo_oficial_tec_lerdo_nov2017_transparente.png
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\Lupita.PNG
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\money_analytics_analysis_icon_143876.ico
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\outline_account_circle_black_48dp.png
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp.png
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\outline_arrow_back_black_48dp1.png
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp.png
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\outline_error_outline_black_48dp1.png
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\outline_menu_black_48dp.png
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\outline_menu_black_48dp1.png
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp.png
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\outline_people_alt_black_48dp1.png
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\round_account_circle_black_18dp.png
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\round_arrow_back_black_18dp.png
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\round_group_black_18dp.png
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\round_thumb_up_black_18dp.png
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\round_update_black_18dp.png
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Resources\User.PNG
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Servidor\ETH.txt
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Kaikei Project.exe.config
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Kaikei Project.exe.manifest
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Kaikei Project.application
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Kaikei Project.exe
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Kaikei Project.pdb
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\CircularProgressBar.dll
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Common.dll
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\DataAccese.dll
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Domain.dll
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\WinFormAnimation.dll
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Common.pdb
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\DataAccese.pdb
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Domain.pdb
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\CircularProgressBar.xml
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\Brian\Desktop\12 - copia\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Presentacion.Add_compras.resources
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Presentacion.Add_Product.resources
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Presentacion.Add_Provedores.resources
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Presentacion.Add_Sales.resources
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Presentacion.FormAbout.resources
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Presentacion.FormChaanges.resources
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Presentacion.FormConta.resources
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Presentacion.FormLogin.resources
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Presentacion.FormRecoverPassword.resources
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Presentacion.FormUpdates.resources
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Presentacion.FormUser.resources
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Presentacion.FormWelcome.resources
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Kaikei_Project.Properties.Resources.resources
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Kaikei Project.TrustInfo.xml
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Kaikei Project.exe.manifest
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Kaikei Project.application
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Kaikei Project.exe
+C:\Users\Brian\Desktop\12 - copia\Presentacion\obj\Debug\Kaikei Project.pdb
